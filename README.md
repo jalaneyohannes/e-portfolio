@@ -5,7 +5,7 @@
 ### Reflection
 
 **Introduction**
-As a computer science major at the University of St. Thomas, I have developed a range of technical and analytical skills through various projects and coursework. This "Signature Work Portfolio" is designed to showcase my academic journey and its alignment with the common good and the mission and values of St. Thomas. The portfolio includes projects that demonstrate my ability to solve complex problems, engage with interdisciplinary knowledge, and contribute to the broader community.
+As a computer science major at the University of St. Thomas, I have developed a range of technical and analytical skills through various projects and coursework. This "Signature Work Portfolio" is designed to showcase my academic journey and its alignment with the common good and the mission and values of St. Thomas. The portfolio includes projects that demonstrate my ability to solve problems, engage with interdisciplinary knowledge, and contribute to the broader community.
 
 **Connection to the Common Good and St. Thomas's Mission**
 The University of St. Thomas emphasizes a commitment to the common good, ethical leadership, and the integration of faith and reason. Through my coursework and projects, I have aimed to embody these values by addressing real-world problems and creating solutions that benefit society. This reflection will explore how three of my projects—each representing different aspects of computer science—connect to these ideals.
@@ -16,11 +16,22 @@ The University of St. Thomas emphasizes a commitment to the common good, ethical
 - **Connection to the Common Good:** Task management is a fundamental aspect of productivity and mental well-being. By providing a tool that helps individuals organize their tasks, this project supports personal efficiency and reduces stress. This aligns with the mission of St. Thomas to promote the common good by enhancing the quality of life and well-being of individuals.
 - **Project-Specific Reflection:** The development of the To-Do List App required a practical understanding of GUI development and user experience design. Collaborating with peers to test and refine the app provided valuable feedback and demonstrated the importance of iterative development and user-centric design. This project highlighted the role of simple yet effective tools in improving daily life and personal productivity.
 
-**Project 2: Weather App**
+# Project 2: Simple weather app
+
+## Overview
+The Weather App is a console-based application developed in Java that leverages the OpenWeatherMap API to provide real-time weather updates for user-specified cities. Upon entering a city name, the application fetches and displays current temperature, humidity, and weather description.
+
+## Project Details
 - **GitHub Repository:** [Weather App](https://github.com/jalaneyohannes/simple_weatherapplication_)
-- **Project Description:** The Weather App is a console-based application that fetches and displays the current weather information for a specified city. Developed using Java, the application utilizes the OpenWeatherMap API to retrieve weather data. The app prompts the user to enter a city name, then retrieves and displays the current temperature, humidity, and weather description for that city.
-- **Connection to the Common Good:** Access to real-time weather information is crucial for daily planning and safety. This Weather App provides an easy-to-use interface for individuals to obtain weather updates, aiding in better preparedness and informed decision-making. This aligns with the mission of St. Thomas to advance the common good by promoting safety and well-being through accessible information.
-- **Project-Specific Reflection:** The development of the Weather App required an understanding of HTTP requests, JSON parsing, and API integration. Working on this project enhanced my skills in these areas and demonstrated the practical application of Java in real-world scenarios. This project also underscored the importance of reliable data sources and efficient data handling in software development.
+- **Language Used:** Java
+- **API Used:** OpenWeatherMap API
+
+## Connection to the Common Good
+The Weather App serves a vital role in advancing the common good by offering accessible weather information to individuals. In scenarios where weather conditions significantly impact daily activities or safety, such as outdoor events, travel plans, or emergency preparedness, having timely and accurate weather updates is crucial. By providing this information in a user-friendly format, the Weather App empowers users to make informed decisions, contributing to their safety and well-being.
+
+## Project-Specific Reflection
+Developing the Weather App required a deep dive into HTTP requests, JSON parsing, and API integration within the Java environment. It also prompted considerations of data reliability and efficient handling. Reflecting on this project from a domain-specific angle, the importance of understanding meteorological concepts became evident. Integrating weather data from the OpenWeatherMap API necessitated comprehension of weather variables, such as temperature and humidity, and their significance in forecasting and understanding local weather conditions. Additionally, considerations of how different weather phenomena impact daily activities underscored the practical implications of this project. This intersection of software development with meteorological knowledge highlights the interdisciplinary nature of technology projects and their potential to address domain-specific challenges.
+
 
 **Project 3: Chat Application**
 - **GitHub Repository:** [Chat Application](https://github.com/jalaneyohannes/Todo_list_app)
