@@ -10,7 +10,7 @@ As a computer science major at the University of St. Thomas, I have developed a 
 **Connection to the Common Good and St. Thomas's Mission**
 The University of St. Thomas emphasizes a commitment to the common good, ethical leadership, and the integration of faith and reason. Through my coursework and projects, I have aimed to embody these values by addressing real-world problems and creating solutions that benefit society. This reflection will explore how three of my projects—each representing different aspects of computer science—connect to these ideals.
 
-# Project 1: To-Do List App**
+# Project 1: To-Do List App
 - **GitHub Repository:** [To-Do List App](https://github.com/jalaneyohannes/Todo_list_app)
 - **Project Description:** The To-Do List App is a simple desktop application designed to help users manage their daily tasks. Developed using Python and the Tkinter library, the app allows users to add, delete, complete, save, and load tasks. The user interface is straightforward and user-friendly, making task management accessible to everyone.
 - **Connection to the Common Good:** Task management is a fundamental aspect of productivity and mental well-being. By providing a tool that helps individuals organize their tasks, this project supports personal efficiency and reduces stress. This aligns with the mission of St. Thomas to promote the common good by enhancing the quality of life and well-being of individuals.
